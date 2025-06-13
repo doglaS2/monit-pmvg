@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749564776 -0300	clone: from github.com:doglaS2/-desafio-licitacoes-DOUGLAS_SIQUEIRA.git
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749708935 -0300	checkout: moving from main to developer
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749709429 -0300	reset: moving to HEAD
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749709461 -0300	reset: moving to HEAD
+ee075e6ec895eb9fcf992cfe803b3eec3535331a bc541646654cce5e6345f44ebb45d8eb64a0a013 doglaS2 <doug.siq.silva@gmail.com> 1749709509 -0300	commit: refactor: melhora organização do código no backend e frontend
+bc541646654cce5e6345f44ebb45d8eb64a0a013 ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749709719 -0300	reset: moving to HEAD~1
+ee075e6ec895eb9fcf992cfe803b3eec3535331a 619deda2a17af39e01f45d6dc07e5a5faef3f71b doglaS2 <doug.siq.silva@gmail.com> 1749709797 -0300	commit: feat(models): adiciona modelo ItemPMVG com campo codigo_ggrem e migrations
+619deda2a17af39e01f45d6dc07e5a5faef3f71b bc541646654cce5e6345f44ebb45d8eb64a0a013 doglaS2 <doug.siq.silva@gmail.com> 1749710123 -0300	reset: moving to origin/developer
+bc541646654cce5e6345f44ebb45d8eb64a0a013 ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749710329 -0300	reset: moving to ee075e6
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749711502 -0300	checkout: moving from developer to main
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749711578 -0300	checkout: moving from main to developer
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749711822 -0300	checkout: moving from developer to main
+0000000000000000000000000000000000000000 1b1bb4b0f19220bf5e071b47fabb7a55ad951d91 doglaS2 <doug.siq.silva@gmail.com> 1749712002 -0300	commit (initial): all, sorry
+1b1bb4b0f19220bf5e071b47fabb7a55ad951d91 ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749773597 -0300	checkout: moving from developer to main
+ee075e6ec895eb9fcf992cfe803b3eec3535331a 1b1bb4b0f19220bf5e071b47fabb7a55ad951d91 doglaS2 <doug.siq.silva@gmail.com> 1749773606 -0300	checkout: moving from main to developer
+1b1bb4b0f19220bf5e071b47fabb7a55ad951d91 ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749773610 -0300	checkout: moving from developer to main
+ee075e6ec895eb9fcf992cfe803b3eec3535331a ee075e6ec895eb9fcf992cfe803b3eec3535331a doglaS2 <doug.siq.silva@gmail.com> 1749773673 -0300	checkout: moving from main to main
